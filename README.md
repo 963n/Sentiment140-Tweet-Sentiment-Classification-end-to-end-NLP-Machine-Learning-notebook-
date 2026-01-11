@@ -170,11 +170,6 @@ Open: `ML_PROJECT (1).ipynb`
 * Qwen Embedding Model (HuggingFace): [https://huggingface.co/Qwen/Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B)
 
 ---
-## 📌 Note About the Training Data (File Size)
-
-The full **Sentiment140 training dataset** is **too large to be included / loaded directly from this repository** (or may fail to upload due to size limits).  
-If you need the exact training file(s) used in this project, feel free to **contact me on LinkedIn** and I’ll share them with you.
----
 
 ## 🧑‍💻 Author
 
@@ -193,3 +188,8 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ```
 ```
+## 📌 Note About the Training Data (File Size)
+
+The full **Sentiment140 training dataset** is **too large to be included / loaded directly from this repository** (or may fail to upload due to size limits).  
+If you need the exact training file(s) used in this project, feel free to **contact me on LinkedIn** and I’ll share them with you.
+---
