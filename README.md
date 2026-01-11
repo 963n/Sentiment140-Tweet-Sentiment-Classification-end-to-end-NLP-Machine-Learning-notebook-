@@ -8,18 +8,11 @@ Classic features (**Bag of Words**, **TF-IDF**) + modern **LLM embeddings (Qwen3
 ## 🔗 Quick Access
 
 [![🧠 Embeddings](https://img.shields.io/badge/Qwen_Embeddings-.npy-6A5ACD?style=for-the-badge)](./qwen_embeddings.npy)
-[![📂 Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/Sentiment140-Tweet-Sentiment-Classification-end-to-end-NLP-Machine-Learning-notebook-/edit/main/README.md)
+[![📂 Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/Sentiment140-Tweet-Sentiment-Classification-end-to-end-NLP-Machine-Learning-notebook-)
 
 
 ---
 
-## 📸 Preview
-
-Add a screenshot/gif after you run the notebook (recommended):
-
-![Project Preview](./assets/preview.png)
-
----
 
 ## 🧠 How It Works
 
