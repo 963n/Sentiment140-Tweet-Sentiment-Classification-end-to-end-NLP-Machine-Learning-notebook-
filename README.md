@@ -2,7 +2,14 @@
 # 💬 Sentiment140 Tweet Sentiment Classification
 An **end-to-end NLP Machine Learning notebook** (Jupyter/Colab) that classifies tweets into **Negative / Positive / Neutral** using the **Sentiment140** dataset.  
 Classic features (**Bag of Words**, **TF-IDF**) + modern **LLM embeddings (Qwen3-Embedding)** — with clear evaluation plots and metrics. ✅
-Team: Mohammed Abdulrahman Alawfi, Abdulrahman Majed Al-Mutairi, Yasser Misfer Al-Thibyani
+
+
+Team: 
+- Mohammed Abdulrahman Alawfi
+- Abdulrahman Majed Al-Mutairi
+- Yasser Misfer Al-Thibyani
+
+
 ---
 
 ## 🔗 Quick Access
